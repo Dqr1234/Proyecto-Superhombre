@@ -1,0 +1,17 @@
+{
+  "name": "CenaCheck",
+  "short_name": "CenaCheck",
+  "description": "Personal fitness and nutrition dinner tracker.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1c",
+  "theme_color": "#0a0f1c",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
